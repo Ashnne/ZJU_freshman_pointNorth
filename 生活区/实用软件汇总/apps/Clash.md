@@ -10,7 +10,7 @@
 
 ## 下载地址
 
-<https://www.yuque.com/download>
+<https://github.com/Fndroid/clash_for_windows_pkg/releases>
 
 &nbsp;  
 &nbsp;  
