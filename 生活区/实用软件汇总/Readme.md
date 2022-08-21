@@ -4,7 +4,7 @@
 
 因为这些内容是带有个人见解的，可能并不客观全面，欢迎同学们随时反馈以及推荐其他软件给我们。  
 
-### [手机软件](./apps/)  
+### [手机软件](./apps/Readme.md)  
 - #### 校园app  
   - [浙大校园卡](./apps/%E6%B5%99%E5%A4%A7%E6%A0%A1%E5%9B%AD%E5%8D%A1.md)
   - [浙大体艺](./apps/%E6%B5%99%E5%A4%A7%E4%BD%93%E8%89%BA.md)
@@ -24,15 +24,15 @@
   - [Clash](./apps/Clash.md)
   - [OurPlay & GamesToday](./apps/OurPlay%20%26%20GamesToday.md)
 
-### [电脑软件](./softwares/)
+### [电脑软件](./softwares/Readme.md)
 - #### 必备软件
-  - [Dev-C++]()
+  - [Dev-C++](./softwares/Dev-C%2B%2B.md)
 - #### 推荐软件
-  - [EasyConnect]()
-  - [VScode]()
-  - [Clash]()
-  - [Adobe全家桶]()
-  - [语雀]()
-  - [qBittorrent]()
-  - [PotPlayer]()
-  - [阿里云盘]()
+  - [EasyConnect](./softwares/EasyConnect.md)
+  - [VScode](./softwares/VScode.md)
+  - [Clash](./softwares/Clash.md)
+  - [Adobe全家桶](./softwares/Adobe.md)
+  - [语雀](./softwares/%E8%AF%AD%E9%9B%80.md)
+  - [qBittorrent](./softwares/qBittorrent.md)
+  - [PotPlayer](./softwares/PotPlayer.md)
+  - [阿里云盘](./softwares/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98.md)
