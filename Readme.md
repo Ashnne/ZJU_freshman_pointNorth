@@ -84,8 +84,13 @@ Hi，你好，浙大人
 ## [学生工作区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学生工作区)
 
 * ### 班内岗位指南
-  *
 
+  * #### [团支书篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学生工作区/班内岗位指南/团支书篇)
+  
+  * #### [宣传委员篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学生工作区/班内岗位指南/宣传委员篇)
+
+  * #### [通用篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学生工作区/班内岗位指南/通用篇)
+  
 ## 贡献
 
 **欢迎贡献！**
