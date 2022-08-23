@@ -51,7 +51,7 @@ Hi，你好，浙大人
 
 * ### 实用的工具&技能
 
-  * #### [笔记篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/实用的工具%26技能/笔记)
+  * #### [笔记篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/实用的工具%26技能/笔记篇)
 
 * ### 自习指南
 
