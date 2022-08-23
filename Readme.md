@@ -22,7 +22,7 @@ Hi，你好，浙大人
 
 * ###  [专业分流](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/专业分流)
 
-** ####  [专业确认与分流指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/专业分流/专业确认与分流指南.md)
+  * ####  [专业确认与分流指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/专业分流/专业确认与分流指南.md)
 
 
 
