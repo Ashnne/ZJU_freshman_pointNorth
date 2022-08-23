@@ -16,6 +16,15 @@ Hi，你好，浙大人
 
 在创新途中坚定前行
 
+# 索引
+
+## [生活区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区)
+
+### [专业分流]（https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/专业分流）
+
+#### [专业确认虞分流指南]（https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/专业分流/专业确认与分流指南.md）
+
+
 
 ## 贡献
 
