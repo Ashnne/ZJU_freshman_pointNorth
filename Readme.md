@@ -18,13 +18,53 @@ Hi，你好，浙大人
 
 # 索引
 
-## [生活区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区)
+## [生活区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/生活区)
 
-* ###  [专业分流](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/专业分流)
+* ### 实用公众号汇总
 
-  * ####  [专业确认与分流指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/专业分流/专业确认与分流指南.md)
+* ### 实用网站汇总
 
+* ### 实用软件培训
 
+## [学习区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区)
+
+* ### 专业分流
+
+  * #### [专业确认与分流指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/专业分流/专业确认与分流指南.md)
+
+* ### 实用的工具&技能
+
+  * #### [笔记篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/实用的工具%26技能/笔记篇)
+  
+  * #### [翻墙篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/实用的工具%26技能/翻墙篇.md)
+  
+* ### 自习指南
+
+  * #### [校内篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/自习指南/校内篇.md)
+  
+  * #### [校外篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/自习指南/校外篇.md)
+  
+* ### 课程学习经验
+
+  * #### [c小程](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/课程学习经验/c小程)
+  
+  * #### [微积分甲I](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区/课程学习经验/微积分甲Ⅰ)
+  
+* ### 辅修
+
+  * #### [竺院辅修](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/辅修/竺院辅修.md)
+  
+  * #### [辅修申请](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/辅修/辅修申请时间.md)
+  
+* ### 选课指南
+
+  * #### [选课指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/选课指南/选课指南.md)
+
+* ### 通识课程介绍
+
+  * #### [课程介绍](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/通识课程介绍/课程介绍.md)
+  
+## 
 
 ## 贡献
 
