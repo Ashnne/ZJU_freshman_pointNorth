@@ -22,10 +22,27 @@ Hi，你好，浙大人
 
 * ### 实用公众号汇总
 
+  * #### [实用公众号汇总](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/生活区/实用公众号汇总/实用公众号汇总.md)
+  
 * ### 实用网站汇总
 
-* ### 实用软件培训
+  * #### [实用网站汇总](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/生活区/实用网站汇总/实用网站汇总.md)
+  
+* ### [实用软件汇总](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/生活区/实用软件汇总)
 
+  * #### [app篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/生活区/实用软件汇总/apps)
+  
+  * #### [软件篇](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/生活区/实用软件汇总/softwares)
+  
+* ### 新生防骗指南
+
+  * #### [新生防骗指南](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/生活区/新生防骗指南/新生防骗指南.md)
+  
+* ### 社团组织介绍
+
+  * #### [社团组织介绍](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/生活区/社团组织介绍/社团组织介绍.md)
+   
+ 
 ## [学习区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学习区)
 
 * ### 专业分流
@@ -64,7 +81,10 @@ Hi，你好，浙大人
 
   * #### [课程介绍](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/学习区/通识课程介绍/课程介绍.md)
   
-## 
+## [学生工作区](https://github.com/Ashnne/ZJU_freshman_pointNorth/tree/main/学生工作区)
+
+* ### 班内岗位指南
+  *
 
 ## 贡献
 
