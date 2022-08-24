@@ -99,7 +99,7 @@ Hi，你好，浙大人
 
 *——因为很重要所以说了三遍*
 
-**只要你有一颗为爱发电分享的新，就可以[点击这里](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/从零开始的分享教程.md)来获得一份从零开始的分享教程。
+**只要你有一颗为爱发电分享的新，就可以[点击这里](https://github.com/Ashnne/ZJU_freshman_pointNorth/blob/main/从零开始的分享教程.md)来获得一份从零开始的分享教程。**
 
 欢迎和我们交流！
 
